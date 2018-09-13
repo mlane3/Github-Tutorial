@@ -5,11 +5,11 @@ setwd("~/Homework/hw1") #comment out or remove this line.
 #We can use projects instead to manage github repositories. 
 
 # Calculate 3 + 4
-
+7
 # Calculate 6 + 12
 
 # Print Hello World
 
 # Read credit card data.
 library(readr)
-read_table2(file = "")
+read_table2(file = "creditheaders.txt")
